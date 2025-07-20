@@ -49,7 +49,7 @@ const store=MongoStore.create({
 }) //It tells connect-mongo to only update the session in the database once per touchAfter interval, even if the session is accessed frequently.
 
 store.on("error", (err) => {
-    console.log("SESSION STORE ERROR:", err);
+   console.log("SESSION STORE ERROR:", err);
 });
 
 
@@ -139,6 +139,6 @@ app.listen(port,()=>{
     console.log("Working on port:",port);
 });
 
-// app.get("/",(req,res)=>{
-//     res.send("Working");
-// });
+app.get("/", (req, res) => {
+  res.redirect("/listings"); // or render a homepage if you want
+});
