@@ -140,5 +140,5 @@ app.listen(port,()=>{
 });
 
 app.get("/", (req, res) => {
-  res.redirect("/listings"); // or render a homepage if you want
+  res.redirect("/listings");
 });
