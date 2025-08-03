@@ -79,14 +79,14 @@ wanderlust/
 └── package.json
 ```
 
-## 📸 Screenshots
+##You can try it here!
+🔗 Project URL: https://your-deployment-url.com
 
-> *(Add a few screenshots of the homepage, listing page, and booking page here)*
 
 ## 🧑‍💻 Author
 
 **Somnath Gupta**
 
-* GitHub: [@your-github](https://github.com/your-username)
+* GitHub: [@your-github](https://github.com/SomnathGupta28)
 
 
