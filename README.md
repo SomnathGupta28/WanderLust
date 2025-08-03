@@ -79,8 +79,10 @@ wanderlust/
 └── package.json
 ```
 
-##You can try it here!
-🔗 Project URL: https://your-deployment-url.com
+You can try it here!
+
+
+🔗 Project URL: https://wanderlust-kwp6.onrender.com
 
 
 ## 🧑‍💻 Author
