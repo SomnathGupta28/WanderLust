@@ -1,23 +1,23 @@
 
 ````markdown
-# 🌍 Wanderlust - Airbnb Clone
+# 🌍 Wanderlust 
 
-Wanderlust is a full-stack web application inspired by Airbnb. It allows users to explore, list, and book vacation rentals around the world. This project is built using the **MERN-style stack** (MongoDB, Express, Node.js) with server-side rendering via **EJS templates**.
+Wanderlust is a full-stack web application inspired by Airbnb. It enables users to explore, list, and book vacation rentals worldwide. This project is built using the **MERN-style stack** (MongoDB, Express, Node.js) with server-side rendering via **EJS templates**.
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
-- **Frontend:**
+- Frontend:
   - HTML5
   - CSS3
   - JavaScript (Vanilla)
   - EJS (Embedded JavaScript Templates)
 
-- **Backend:**
+- Backend:
   - Node.js
   - Express.js
   - MongoDB (with Mongoose ODM)
 
-## ✨ Features
+ ✨ Features
 
 - User authentication (register/login/logout)
 - Create, read, update, and delete property listings
@@ -28,9 +28,9 @@ Wanderlust is a full-stack web application inspired by Airbnb. It allows users t
 - Responsive UI for mobile and desktop
 - Flash messages for user feedback
 
-## 🚀 Installation
+ 🚀 Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/wanderlust.git
