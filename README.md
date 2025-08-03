@@ -1,11 +1,11 @@
 ````markdown
-# 🌍 Wanderlust
+ 🌍 Wanderlust
 
 Wanderlust is a full-stack Airbnb clone that allows users to explore, list, and book vacation rentals around the world. Built using Node.js, Express, MongoDB, and EJS, it delivers a seamless and responsive user experience.
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 - User authentication (register/login/logout)
 - Create, read, update, and delete property listings
@@ -18,11 +18,11 @@ Wanderlust is a full-stack Airbnb clone that allows users to explore, list, and 
 
 ---
 
-## 🚀 Installation
+🚀 Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
 
-   ```bash
+   
    git clone https://github.com/your-username/wanderlust.git
    cd wanderlust
 ````
