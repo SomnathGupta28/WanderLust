@@ -1,21 +1,11 @@
-🌍 Wanderlust 
+````markdown
+# 🌍 Wanderlust
 
-Wanderlust is a full-stack web application inspired by Airbnb. It enables users to explore, list, and book vacation rentals worldwide. This project is built using the **MERN-style stack** (MongoDB, Express, Node.js) with server-side rendering via **EJS templates**.
+Wanderlust is a full-stack Airbnb clone that allows users to explore, list, and book vacation rentals around the world. Built using Node.js, Express, MongoDB, and EJS, it delivers a seamless and responsive user experience.
 
- 🛠 Tech Stack
+---
 
-- Frontend:
-  - HTML5
-  - CSS3
-  - JavaScript (Vanilla)
-  - EJS (Embedded JavaScript Templates)
-
-- Backend:
-  - Node.js
-  - Express.js
-  - MongoDB (with Mongoose ODM)
-
- ✨ Features
+## ✨ Features
 
 - User authentication (register/login/logout)
 - Create, read, update, and delete property listings
@@ -26,11 +16,13 @@ Wanderlust is a full-stack web application inspired by Airbnb. It enables users 
 - Responsive UI for mobile and desktop
 - Flash messages for user feedback
 
- 🚀 Installation
+---
 
-1. Clone the repository:
+## 🚀 Installation
 
+1. **Clone the repository:**
 
+   ```bash
    git clone https://github.com/your-username/wanderlust.git
    cd wanderlust
 ````
@@ -43,7 +35,7 @@ Wanderlust is a full-stack web application inspired by Airbnb. It enables users 
 
 3. **Set up environment variables:**
 
-   Create a .env` file in the root directory and add the following:
+   Create a `.env` file in the root directory and add the following:
 
    ```env
    DB_URL=your_mongodb_connection_string
@@ -60,7 +52,9 @@ Wanderlust is a full-stack web application inspired by Airbnb. It enables users 
    npm start
    ```
 
-   The app will run on [http://localhost:3000](http://localhost:3000)
+   The app will be available at: [http://localhost:3000](http://localhost:3000)
+
+---
 
 ## 📂 Project Structure
 
@@ -77,16 +71,17 @@ wanderlust/
 └── package.json
 ```
 
-You can try it here!
+---
 
+## 🌐 Try It Out
 
-🔗 Project URL: https://wanderlust-kwp6.onrender.com
+🔗 **Project URL:** [https://wanderlust-kwp6.onrender.com](https://wanderlust-kwp6.onrender.com)
 
+---
 
 ## 🧑‍💻 Author
 
 **Somnath Gupta**
 
-* GitHub: [@Somnath](https://github.com/SomnathGupta28)
-
+* GitHub: [@SomnathGupta28](https://github.com/SomnathGupta28)
 
