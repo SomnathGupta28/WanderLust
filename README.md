@@ -1,6 +1,8 @@
+
+````markdown
 # 🌍 Wanderlust - Airbnb Clone
 
-Wanderlust is a full-stack web application inspired by Airbnb. It enables users to explore, list, and book vacation rentals worldwide. This project is built using the **MERN-style stack** (MongoDB, Express, Node.js) with server-side rendering via **EJS templates**.
+Wanderlust is a full-stack web application inspired by Airbnb. It allows users to explore, list, and book vacation rentals around the world. This project is built using the **MERN-style stack** (MongoDB, Express, Node.js) with server-side rendering via **EJS templates**.
 
 ## 🛠 Tech Stack
 
@@ -26,9 +28,7 @@ Wanderlust is a full-stack web application inspired by Airbnb. It enables users 
 - Responsive UI for mobile and desktop
 - Flash messages for user feedback
 
-## 🚀 Installation & Setup
-
-To run the project locally:
+## 🚀 Installation
 
 1. **Clone the repository:**
 
@@ -43,7 +43,9 @@ To run the project locally:
    npm install
    ```
 
-3. **Create a `.env` file** in the root directory and add the following environment variables:
+3. **Set up environment variables:**
+
+   Create a `.env` file in the root directory and add the following:
 
    ```env
    DB_URL=your_mongodb_connection_string
@@ -54,15 +56,15 @@ To run the project locally:
    MAP_TOKEN=your_mapbox_token
    ```
 
-4. **Start the server:**
+4. **Run the application:**
 
    ```bash
    npm start
    ```
 
-5. **Access the application** at `http://localhost:3000`
+   The app will run on [http://localhost:3000](http://localhost:3000)
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```
 wanderlust/
@@ -73,18 +75,18 @@ wanderlust/
 ├── routes/               # Express routes
 ├── middleware/           # Custom middleware
 ├── utils/                # Utility functions
-├── script.js             # Main app setup
+├── app.js                # Main app setup
 └── package.json
 ```
 
-## You can check it here
-🔗 Project URL: https://wanderlust-kwp6.onrender.com
+## 📸 Screenshots
 
+> *(Add a few screenshots of the homepage, listing page, and booking page here)*
 
 ## 🧑‍💻 Author
 
 **Somnath Gupta**
-GitHub: [https://github.com/SomnathGupta28](https://github.com/SomnathGupta28)
 
+* GitHub: [@your-github](https://github.com/your-username)
 
 
